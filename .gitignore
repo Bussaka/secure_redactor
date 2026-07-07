@@ -1,0 +1,5 @@
+vault_master.key
+data/
+test_vault/
+test_raw_doc.txt
+__pycache__/
