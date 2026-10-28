@@ -3,3 +3,6 @@ data/
 test_vault/
 test_raw_doc.txt
 __pycache__/
+.venv/
+venv/
+.env
